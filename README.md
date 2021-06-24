@@ -1,5 +1,5 @@
 # Bienvenidos a la extensión de cristianlb-productions ("Master todo poderoso" Xd)
-# Este es un tema negro, soporta varios lenguajes de programación
-# Se incluyeron algunas mejoras y se arreglaron algunos colores de algunas etiques no tomadas encuenta anteriormente
-![Alt text](images/img01?raw=true "Muestra #1")
-![Alt text](images/img02?raw=true "Muestra #2")
+# Tema negro oscuro
+# Espero que lo distruten :D
+<img src="/images/img01.png" alt="Muestra #1"/>
+<img src="/images/img02.png" alt="Muestra #2"/>
