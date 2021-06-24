@@ -1,0 +1,32 @@
+{
+    "name": "master-black-theme",
+    "displayName": "master-black-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Master Black Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Master Black Theme-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/icon-master_theme.png",
+    "author": {
+        "name": "Cristian Laynez",
+        "email": "cristianlaynezbachez@gmail.com",
+        "url": "https://www.linkedin.com/in/cristian-laynez-b66a77173/"
+    },
+    "repository": {
+        "url": "https://github.com/CRLB-sketch/master-black-theme-vs.git",
+        "type": "git"
+    },
+    "publisher": "cristianlb-productions"
+}
